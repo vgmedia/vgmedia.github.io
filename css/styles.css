@@ -86,6 +86,7 @@ a:active {
 .carousel img {
     min-width: 100%;
 }
+.carousel-indicators li{display:none;}
 
 /* centered columns styles */
 .row-centered {
