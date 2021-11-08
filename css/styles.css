@@ -52,18 +52,18 @@ a:active {
   padding-top: 2em;
   text-align: center;
   color:#949494;
-  font-family: 'Helvetica';
+  font-family: 'Times';
 }
 
 .title {
   text-align: center;
   color:#EEEEEE;;
-  font-family: 'Helvetica';
+  font-family: 'Times';
 }
 .subMain{
   text-align:center;
   color: #adadad;
-  font-family: 'Helvetica';
+  font-family: 'Times';
 }
 
 .paragraph{
@@ -128,7 +128,7 @@ body {
     display:block;position:relative;
     content:"COLUMN";
     margin-bottom:1px;
-    font-family:'Helvetica';
+    font-family:'Times';
     font-size:1px;
     letter-spacing:1px;
     color:transparent;
@@ -144,7 +144,7 @@ body {
   color:#797979;
 }
 .content:before {
-    font-family:'Helvetica';
+    font-family:'Times';
     font-size:14px;
     letter-spacing:1px;
     color:transparent;
