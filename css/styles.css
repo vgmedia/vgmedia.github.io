@@ -11,17 +11,17 @@ body {
 }
 
 a:link {
-    color: #ECECEC;
+    color: #adadad;
 }
 a:visited {
-    color: #ECECEC;
+    color: #adadad;
 }
 a:hover {
-    color: #ECECEC;
+    color: #949494;
     text-decoration: none;
 }
 a:active {
-    color: #ECECEC;
+    color: #adadad;
 }
 
 .navbar-default
@@ -51,7 +51,7 @@ a:active {
 .main {
   padding-top: 2em;
   text-align: center;
-  color:#ECECEC;
+  color:#949494;
   font-family: 'Helvetica';
 }
 
@@ -62,7 +62,7 @@ a:active {
 }
 .subMain{
   text-align:center;
-  color: #797979;
+  color: #adadad;
   font-family: 'Helvetica';
 }
 
