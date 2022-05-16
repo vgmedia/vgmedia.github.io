@@ -1,8 +1,51 @@
-body {
-    padding-top: 3em;
+body.home {
+    padding-top: 2em;
+   padding-bottom: 1em;
+   background-color: #949494 !important;
+  background: url("../img/bg1.png") no-repeat center center fixed;
+   background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+body.whistle {
+    padding-top: 2em;
    padding-bottom: 1em;
    background-color: #000000 !important;
-   background: url("../img/background.jpg") no-repeat center center fixed;
+
+   background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+
+body.composer {
+    padding-top: 2em;
+   padding-bottom: 1em;
+   background-color: #000000 !important;
+   background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+body.developer {
+    padding-top: 2em;
+   padding-bottom: 1em;
+   background-color: #000000 !important;
+   background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+body.contact {
+    padding-top: 2em;
+   padding-bottom: 1em;
+   background-color: #000000 !important;
    background-attachment: fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -11,22 +54,22 @@ body {
 }
 
 a:link {
-    color: #adadad;
+    color: #6e6e6e;
 }
 a:visited {
-    color: #adadad;
+    color: #6e6e6e;
 }
 a:hover {
     color: #949494;
     text-decoration: none;
 }
 a:active {
-    color: #adadad;
+    color: #949494;
 }
 
 .navbar-default
 {
-    background-color: black;
+    background-color: transparent;
     border-color:transparent;
 }
 
@@ -38,42 +81,42 @@ a:active {
 
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus {
-    color: #ECECEC;
+    color: #6e6e6e;
 }
 
 
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
-    color: #ECECEC;
+    color: #949494;
 }
 
 
 .main {
   padding-top: 2em;
   text-align: center;
-  color:#949494;
+  color:#6e6e6e;
   font-family: 'Times';
 }
 
 .title {
   text-align: center;
-  color:#EEEEEE;;
+  color:#949494;;
   font-family: 'Times';
 }
 .subMain{
   text-align:center;
-  color: #adadad;
+  color: #949494;
   font-family: 'Times';
 }
 
 .paragraph{
   text-align:left;
-  color: #797979;
+  color: #6e6e6e;
   font-family: 'Helvetica';
 }
 .composerTitle{
   text-align:center;
-  color: #D4D4D4;
+  color: #6e6e6e;
   font-family: 'Helvetica';
 }
 
