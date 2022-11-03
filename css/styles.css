@@ -2,7 +2,7 @@ body.home {
     padding-top: 2em;
    padding-bottom: 1em;
    background-color: #949494 !important;
-  background: url("../img/bg3.png") no-repeat center center fixed;
+  background: url("../img/bg1.png") no-repeat center center fixed;
    background-attachment: fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -10,10 +10,10 @@ body.home {
     background-size: cover;
 }
 body.whistle {
-    padding-top: 2em;
+     padding-top: 2em;
    padding-bottom: 1em;
-   background-color: #000000 !important;
-
+   background-color: #949494 !important;
+  background: url("../img/bg3.png") no-repeat center center fixed;
    background-attachment: fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -45,7 +45,8 @@ body.developer {
 body.contact {
     padding-top: 2em;
    padding-bottom: 1em;
-   background-color: #000000 !important;
+   background-color: #949494 !important;
+  background: url("../img/bg4.png") no-repeat center center fixed;
    background-attachment: fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -54,17 +55,17 @@ body.contact {
 }
 
 a:link {
-    color: #6e6e6e;
+    color: #8d8b8d;
 }
 a:visited {
-    color: #6e6e6e;
+    color: #f4f2f2;
 }
 a:hover {
-    color: #949494;
+    color: #8d8b8d;
     text-decoration: none;
 }
 a:active {
-    color: #949494;
+    color: #f4f2f2;
 }
 
 .navbar-default
@@ -74,20 +75,20 @@ a:active {
 }
 
 .navbar-default .navbar-brand {
-    color: #797979;
+    color: #8d8b8d;
     background-color: transparent;
 
 }
 
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus {
-    color: #6e6e6e;
+    color: #f4f2f2;
 }
 
 
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
-    color: #949494;
+    color: #f4f2f2;
 }
 
 
@@ -100,13 +101,13 @@ a:active {
 .main2 {
   padding-top: 2em;
   text-align: center;
-  color:#6e6e6e;
+  color:#f4f2f2;
   font-family: 'Times';
 }
 
 .title {
   text-align: center;
-  color:#949494;;
+  color:#f4f2f2;;
   font-family: 'Times';
 }
 .subMain{
@@ -117,18 +118,18 @@ a:active {
 
 .paragraph{
   text-align:left;
-  color: #6e6e6e;
+  color: #f4f2f2;
   font-family: 'Helvetica';
 }
 .composerTitle{
   text-align:center;
-  color: #6e6e6e;
+  color: #f4f2f2;
   font-family: 'Helvetica';
 }
 
 .mail {
   text-align: center;
-  color:#ECECEC;
+  color:#f4f2f2;
   font-family: 'Helvetica';
 }
 
@@ -190,7 +191,7 @@ body {
   display:table-cell;
   vertical-align:middle;
   text-align:justify;
-  color:#797979;
+  color:#f4f2f2;
 }
 .content:before {
     font-family:'Times';
