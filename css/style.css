@@ -52,12 +52,12 @@ h1, h2, h3, h4, h5, h6 {
 
 ::-moz-selection {
   color: #fff;
-  background: #8C7676;
+  background: #ffffff;
 }
 
 ::selection {
   color: #fff;
-  background: #8C7676;
+  background: #ffffff;
 }
 
 .navbar-collapse {
